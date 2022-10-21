@@ -1,0 +1,9 @@
+{
+	"name": "pm-training-shared",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf48aab9-7984-4213-a76f-1bb3a0c4d8bc",
+		"tenantId": "ce5aa64a-240f-4eab-97d6-8f82e54274fc"
+	}
+}
